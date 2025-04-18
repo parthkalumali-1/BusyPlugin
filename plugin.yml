@@ -1,0 +1,6 @@
+name: BusyPlugin
+version: 1.0
+main: com.beoneo.busyplugin.BusyPlugin
+commands:
+  busy:
+    description: Toggle busy status
